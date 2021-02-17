@@ -6,9 +6,6 @@ using System.Threading.Tasks;
 
 namespace Learning_CSharp
 {
-	/// <summary>
-	/// namespace Learning_CSharp
-	/// </summary>
 	class Program
 	{
 		/// <summary>
