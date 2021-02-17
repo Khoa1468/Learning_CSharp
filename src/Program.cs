@@ -24,6 +24,7 @@ namespace Learning_CSharp
 			#endregion
 
 			Console.WriteLine(kieuSoNguyen);
+			Console.WriteLine(kieuChuoi);
 
 			Console.ReadKey(true);
 		}
