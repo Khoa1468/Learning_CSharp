@@ -23,8 +23,14 @@ namespace Learning_CSharp
 
 			#endregion
 
+			int num1 = 10;
+			int num2 = 5;
+			int sum = num1 + num1;
+			
+
 			Console.WriteLine(kieuSoNguyen);
 			Console.WriteLine(kieuChuoi);
+			Console.WriteLine("a + b = c: {0} + {1} = {2}", num1, num2, sum);
 
 			Console.ReadKey(true);
 		}
