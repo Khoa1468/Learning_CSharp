@@ -14,7 +14,6 @@ namespace Learning_CSharp
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
-//================================================================================
 			#region Bien
 			int kieuSoNguyen = 10;
 			float kieuSoThuc = 10.9f;
@@ -34,7 +33,6 @@ namespace Learning_CSharp
 			Console.WriteLine("a + b = c: {0} + {1} = {2}", num1, num2, sum);
 
 			Console.ReadKey(true);
-//================================================================================
 		}
-    }
+	}
 }
