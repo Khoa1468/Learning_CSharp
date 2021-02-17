@@ -14,18 +14,18 @@ namespace Learning_CSharp
 		/// <param name="args"></param>
 		static void Main(string[] args)
 		{
-            #region Bien
-            int kieuSoNguyen = 10;
+			#region Bien
+			int kieuSoNguyen = 10;
 			float kieuSoThuc = 10.9f;
 			string kieuChuoi = "Hello World!";
 			bool kieuLuanLy = true;
 			char kieuKyTu = 'K';
-			
-            #endregion
 
-            Console.WriteLine(kieuSoNguyen);
+			#endregion
 
-            Console.ReadKey(true);
+			Console.WriteLine(kieuSoNguyen);
+
+			Console.ReadKey(true);
 		}
     }
 }
