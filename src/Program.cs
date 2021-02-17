@@ -16,19 +16,19 @@ namespace Learning_CSharp
 		{
             #region Console.Write()
 
-            //Console.Write("Hello");
-            //Console.Write(10);
-            //Console.Write(10.9f);
-            //Console.Write(false);
+            Console.Write("Hello");
+            Console.Write(10);
+            Console.Write(10.9f);
+            Console.Write(false);
 
             #endregion
 
             #region Console.WriteLine()
 
-            Console.WriteLine("Hello");
-            Console.WriteLine(10);
-            Console.WriteLine(10.9f);
-            Console.WriteLine(true);
+            // Console.WriteLine("Hello");
+            // Console.WriteLine(10);
+            // Console.WriteLine(10.9f);
+            // Console.WriteLine(true);
 
             #endregion
 
