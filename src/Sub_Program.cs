@@ -4,11 +4,9 @@ namespace Learning_CSharp
 {
     class Sub_Program
     {
-        static void Main(string[] args)
+        static void Khoa(string[] args)
         {
-            int a = 10;
-            Console.Write("a = {0}", a);
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

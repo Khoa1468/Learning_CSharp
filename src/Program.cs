@@ -6,33 +6,29 @@ using System.Threading.Tasks;
 
 namespace Learning_CSharp
 {
+	/// <summary>
+	/// namespace Learning_CSharp
+	/// </summary>
 	class Program
 	{
 		/// <summary>
 		/// Hàm chạy đầu tiện khi chương trình đc biên dịch
 		/// </summary>
 		/// <param name="args"></param>
-		static void Khoa(string[] args)
+		static void Main(string[] args)
 		{
-            #region Console.Write()
-
-            Console.Write("Hello");
-            Console.Write(10);
-            Console.Write(10.9f);
-            Console.Write(false);
-
+            #region Bien
+            int kieuSoNguyen = 10;
+			float kieuSoThuc = 10.9f;
+			string kieuChuoi = "Hello World!";
+			bool kieuLuanLy = true;
+			char kieuKyTu = 'K';
+			
             #endregion
 
-            #region Console.WriteLine()
+            Console.WriteLine(kieuSoNguyen);
 
-            // Console.WriteLine("Hello");
-            // Console.WriteLine(10);
-            // Console.WriteLine(10.9f);
-            // Console.WriteLine(true);
-
-            #endregion
-
-            Console.ReadKey();
+            Console.ReadKey(true);
 		}
     }
 }
