@@ -8,6 +8,7 @@ namespace Learning_CSharp
         {
             int a = 10;
             Console.Write("a = {0}", a);
+            Console.WriteLine("Hello World!");
         }
     }
 }
