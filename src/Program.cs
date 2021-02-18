@@ -9,7 +9,7 @@ namespace Learning_CSharp
 	class Program
 	{
 		/// <summary>
-		/// Hàm chạy đầu tiện khi chương trình đc biên dịch
+		/// class Program là hàm chạy đầu tiên trong chương trình
 		/// </summary>
 		/// <param name="args"></param>
 		static void Main(string[] args)
